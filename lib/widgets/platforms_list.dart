@@ -4,7 +4,7 @@ import 'package:train_station/model/train.dart';
 import '../model/platform.dart';
 import '../model/station_platform.dart';
 import '../utils.dart';
-import 'AnimatedTrain.dart';
+import 'animated_train.dart';
 
 class PlatformsList extends StatefulWidget {
   final List<Train> arrivedTrains;
